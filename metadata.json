@@ -1,0 +1,5 @@
+{
+  "name": "US Visa Photo Resizer",
+  "description": "An application to help users automatically crop, resize, and prepare passport photos according to official U.S. visa digital photo requirements using the Gemini API.",
+  "requestFramePermissions": []
+}
